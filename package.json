@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "Joaquin Grunwald",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
