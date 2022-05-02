@@ -27,3 +27,4 @@ const anotherFunction = async () => {
 console.log('Before 1');
 anotherFunction();
 console.log('After 1');
+console.log('jas');
